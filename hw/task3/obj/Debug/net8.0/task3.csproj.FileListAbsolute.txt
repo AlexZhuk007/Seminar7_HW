@@ -1,0 +1,15 @@
+D:\Загрузки\Обучение\programming\seminar7 рекурсия\hw\task3\obj\Debug\net8.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\Обучение\programming\seminar7 рекурсия\hw\task3\obj\Debug\net8.0\task3.AssemblyInfoInputs.cache
+D:\Загрузки\Обучение\programming\seminar7 рекурсия\hw\task3\obj\Debug\net8.0\task3.AssemblyInfo.cs
+D:\Загрузки\Обучение\programming\seminar7 рекурсия\hw\task3\obj\Debug\net8.0\task3.csproj.CoreCompileInputs.cache
+D:\Загрузки\Обучение\programming\seminar7 рекурсия\hw\task3\obj\Debug\net8.0\task3.sourcelink.json
+D:\Загрузки\Обучение\programming\seminar7 рекурсия\hw\task3\bin\Debug\net8.0\task3.exe
+D:\Загрузки\Обучение\programming\seminar7 рекурсия\hw\task3\bin\Debug\net8.0\task3.deps.json
+D:\Загрузки\Обучение\programming\seminar7 рекурсия\hw\task3\bin\Debug\net8.0\task3.runtimeconfig.json
+D:\Загрузки\Обучение\programming\seminar7 рекурсия\hw\task3\bin\Debug\net8.0\task3.dll
+D:\Загрузки\Обучение\programming\seminar7 рекурсия\hw\task3\bin\Debug\net8.0\task3.pdb
+D:\Загрузки\Обучение\programming\seminar7 рекурсия\hw\task3\obj\Debug\net8.0\task3.dll
+D:\Загрузки\Обучение\programming\seminar7 рекурсия\hw\task3\obj\Debug\net8.0\refint\task3.dll
+D:\Загрузки\Обучение\programming\seminar7 рекурсия\hw\task3\obj\Debug\net8.0\task3.pdb
+D:\Загрузки\Обучение\programming\seminar7 рекурсия\hw\task3\obj\Debug\net8.0\task3.genruntimeconfig.cache
+D:\Загрузки\Обучение\programming\seminar7 рекурсия\hw\task3\obj\Debug\net8.0\ref\task3.dll
